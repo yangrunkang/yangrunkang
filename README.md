@@ -9,7 +9,11 @@
 
     网址: https://www.upupor.com
 
-2. upupor-cloud  
+2. 程序员的生活记录
+
+    https://github.com/yangrunkang/programmer-life-record
+
+3. upupor-cloud  
 It is a gateway to provide micro-services
 
 # Statistics
