@@ -1,10 +1,10 @@
-# Status
+# Hello ![主页访问次数](https://visitor-badge.glitch.me/badge?page_id=github_yangrunkang)
 
 - 🌱 I’m currently learning **how to make money**
 - 📫 How to reach me: yangrunkang53@gmail.com
 - 🌐 How to reach author's website: www.upupor.com
 
-# I'm working on those projects:
+## I'm working on those projects:
 1. [upupor](https://github.com/yangrunkang/upupor)
 
     网址: https://www.upupor.com
