@@ -10,8 +10,7 @@
     网址: https://www.upupor.com
 
 2. 程序员的生活记录
-
-    https://github.com/yangrunkang/programmer-life-record
+    http://levelabc.com
 
 3. upupor-cloud  
 
