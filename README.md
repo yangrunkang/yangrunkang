@@ -1,7 +1,7 @@
 # Hello ![主页访问次数](https://visitor-badge.glitch.me/badge?page_id=github_yangrunkang)
 
 - 🌱 I’m currently learning **how to make money**
-- 📫 How to reach me: yangrunkang53@gmail.com
+- 📫 How to reach me: yangrunkang53@gmail.comCancel changes
 - 🌐 How to reach author's website: www.upupor.com
 
 ## I'm working on those projects:
@@ -9,8 +9,9 @@
 
     网址: https://www.upupor.com
 
-2. 程序员的生活记录
-    http://levelabc.com
+2. ECO · 程序员的生活记录
+
+    https://eco.upupor.com
 
 3. upupor-cloud  
 
