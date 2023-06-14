@@ -1,4 +1,5 @@
-# Hello ![主页访问次数](https://visitor-badge.glitch.me/badge?page_id=github_yangrunkang)
+# Hello 
+<!-- ![主页访问次数](https://visitor-badge.glitch.me/badge?page_id=github_yangrunkang)-->
 
 - 🌱 I’m currently learning **how to make money**
 - 📫 How to reach me: yangrunkang53@gmail.com
